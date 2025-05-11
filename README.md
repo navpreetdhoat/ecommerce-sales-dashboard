@@ -51,13 +51,10 @@ Amazon generates a massive volume of sales data, but understanding which product
 ---
 
 ## 📸 Sample Visuals
+https://github.com/navpreetdhoat/ecommerce-sales-dashboard/blob/main/Screenshot%20no%202.png
 
 
-```markdown
-![Sales by Month](./images/sales-by-month.png)
-![Category Performance](./images/category-performance.png)
-🔗 Download or View Dashboard
-📁 Tableau File: Download .twbx file
+📁 Tableau File: 
 
 👩‍💻 About Me
 Hi, I'm Navpreet, a Data Analyst with 2.5 years of experience in Excel, Power BI, Tableau, and SQL. I enjoy transforming raw data into clear insights to support smart decision-making.
