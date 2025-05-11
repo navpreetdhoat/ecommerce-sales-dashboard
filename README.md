@@ -48,32 +48,20 @@ Amazon generates a massive volume of sales data, but understanding which product
 - Enables better inventory and marketing planning based on category trends  
 - Reduces reporting time by providing self-service access to metrics
 
----
+
+## DATA SOURCE - KEGGLE
+
+
+
 
 ## 📸 Sample Visuals
 https://github.com/navpreetdhoat/ecommerce-sales-dashboard/blob/main/Screenshot%20no%202.png
 
 
-📁 Tableau File: 
+📁 Tableau File: https://github.com/navpreetdhoat/ecommerce-sales-dashboard/blob/main/E%20COMMERCE%20DASHBOARD.twbx
 
 👩‍💻 About Me
 Hi, I'm Navpreet, a Data Analyst with 2.5 years of experience in Excel, Power BI, Tableau, and SQL. I enjoy transforming raw data into clear insights to support smart decision-making.
 
 📬 Contact Me
-📧 Email: your.email@example.com
-
-🔗 LinkedIn: linkedin.com/in/your-profile
-
-yaml
-Copy
-Edit
-
----
-
-### ✅ What to Do Next:
-
-1. Upload your `.twbx` file to **Google Drive or OneDrive**
-2. Set the link sharing to “Anyone with the link can view”
-3. Replace the `https://drive.google.com/your-link-here` placeholder with your actual file link
-4. (Optional) Add some screenshots inside a folder named `images` and reference them in the README
-5. Paste this entire code into your GitHub repository’s `README.md`
+📧 Email: napreetkaurdhoat@GMAIL.COM
